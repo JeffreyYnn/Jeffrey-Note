@@ -1,3 +1,3 @@
-# Headline
+# 欢迎！
 
-> An awesome project.
+> 加油，又是充满希望的一天。
