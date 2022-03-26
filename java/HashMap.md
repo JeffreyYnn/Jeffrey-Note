@@ -4,11 +4,11 @@
 
 ### 1、hashMap无参构造方法
 
-![image-20220317155704799](https://gitee.com/jeffreyu/drawing-bed-gitee/raw/master/Img/image-20220317155704799.png)
+![image-20220317155704799](http://image.xianyufashion.top/Img//image-20220317155704799.png)
 
 ### 2、点上面的无参构造方法的this进入有参构造方法
 
-![image-20220317155752084](https://gitee.com/jeffreyu/drawing-bed-gitee/raw/master/Img/image-20220317155752084.png)
+![image-20220317155752084](http://image.xianyufashion.top/Img//image-20220317155752084.png)
 
 
 
