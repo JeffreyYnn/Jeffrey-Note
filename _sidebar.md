@@ -9,3 +9,4 @@
 
 * 零散知识点
   * [零散知识点](/零散知识点/零散知识点.md)
+  * [Win10搭建Jenkins发布Java项目](/零散知识点/Win10搭建Jenkins发布Java项目.md)
