@@ -46,7 +46,7 @@
 
 ## 四、全局配置
 
-<img src="C:\Users\jeffrey\AppData\Roaming\Typora\typora-user-images\image-20220501154857450.png" alt="image-20220501154857450"  />
+<img src="http://image.xianyufashion.top/Img/image-20220501154857450.png" alt="image-20220501154857450"  />
 
 
 
@@ -78,7 +78,7 @@
 
 ### 新建项目
 
-![image-20220501161734674](C:\Users\jeffrey\AppData\Roaming\Typora\typora-user-images\image-20220501161734674.png)
+![image-20220501161734674](http://image.xianyufashion.top/Img/image-20220501161734674.png)
 
 
 
