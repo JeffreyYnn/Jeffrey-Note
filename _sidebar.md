@@ -3,6 +3,7 @@
   * [反编译.class文件](/java/反编译.class文件.md)
   * [面向对象](/java/面向对象.md)
   * [HashMap](/java/HashMap.md)
+  * [多线程间的5种通信方式](/java/多线程间的5种通信方式.md)
 * Nginx
   * [概念](/Nginx/基本概念.md)
   * [笔记](/Nginx/笔记.md)
